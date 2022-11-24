@@ -7,7 +7,7 @@ I am based in Istanbul, Turkey.
 Currently I am working on a personal project in React Native.
 
 # 💻Skills:
-C++, Python,  Tnsoreflow/keras , Java , Javascript , HTML,  CSS,  React Native , Node.js , SQL
+C++, Python,  Tnsoreflow/keras , Java, C# , Javascript , HTML,  CSS, Bootstrap,  React Native , Node.js , SQL, Asp.Net core 0.6( MVC)
 
 # Social:
 linkedIn: [Kimia Nahravanian](http://linkedin.com/in/kimia-nahravanian-0a60791b4)
