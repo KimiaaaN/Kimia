@@ -1,5 +1,5 @@
 # Hi there 👋
-I am Kimia Nahravanian , a recently graduated student in computer Engineering from Bahcesehir University and working in Aktif company as an software Engineer intern.
+I am Kimia Nahravanian , who will be gratudated in the following month (Feb 2023) with bachlore in computer Engineering from Bahcesehir University. I'm currently working in Aktif company as an software Engineer intern.
 
 # ✨ Knowing more about me...
 I am so passionate about App and Web development  besides AI and Machine Learning.
