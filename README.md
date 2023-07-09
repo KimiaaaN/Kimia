@@ -1,13 +1,13 @@
 # Hi there 👋
-I am Kimia Nahravanian , who will be gratudated in the following month (Feb 2023) with bachlore in computer Engineering from Bahcesehir University. I'm currently working in Aktif company as an software Engineer intern.
+I am Kimia Nahravanian , A recent graduate with bachlore in computer Engineering from Bahcesehir University.
 
 # ✨ Knowing more about me...
-I am so passionate about App and Web development  besides AI and Machine Learning.
+I am so passionate about AI and Machine Learning, computer vision. My capstone project ( Autonomus bottle sorter) which you can find its the repository in my github is one of the challenging and fun AI/ML related project that I have done, which I hope to do more of this kind in the future. I have also done some project in web and app development (Full stack- front end heavy), besides that I had an internship, working on asp.net core web applications .
 I am based in Istanbul, Turkey.
-Currently I am working on my internship project in asp.net core.
+
 
 # 💻Skills:
-Python, C++, Java, JavaScript, Node.js, JQuery, HTML5, CSS3, Bootstrap, C#, ASP.NET, SQL, Artificial Intelligence, Machine Learning, TensorFlow, Keras, PyTorch
+Python,Artificial Intelligence, Machine Learning, computer vision, TensorFlow, Keras, OpenCV, pyTorch, C++, Java, JavaScript, Node.js, JQuery, HTML5, CSS3, Bootstrap, C#, ASP.NET, SQL
 
 # Social:
 linkedIn: [Kimia Nahravanian](http://linkedin.com/in/kimia-nahravanian-0a60791b4)
