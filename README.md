@@ -1,13 +1,13 @@
 # Hi there 👋
-I am Kimia Nahravanian , A recent graduate with bachlore in computer Engineering from Bahcesehir University.
+I am Kimia Nahravanian ,an enthusiastic Computer Engineer deeply passionate about AI and ML,currently working at KPKS comapany. 🚀
 
 # ✨ Knowing more about me...
-I am so passionate about AI and Machine Learning, computer vision. My capstone project ( Autonomus bottle sorter) which you can find its the repository in my github is one of the challenging and fun AI/ML related project that I have done, which I hope to do more of this kind in the future. I have also done some project in web and app development (Full stack- front end heavy), besides that I had an internship, working on asp.net core web applications .
-I am based in Istanbul, Turkey.
+
+I am Dedicated and forward-thinking computer engineer with a strong focus on crafting user-centric websites and applications while excelling in AI/ML model training, particularly within computer vision and image processing domains. Recognized for innovative problem-solving and an unwavering dedication to continuous skill enhancement, I excel in managing diverse tasks with adaptability and a positive approach.  
 
 
 # 💻Skills:
-Python,Artificial Intelligence, Machine Learning, computer vision, TensorFlow, Keras, OpenCV, pyTorch, C++, Java, JavaScript, Node.js, JQuery, HTML5, CSS3, Bootstrap, C#, ASP.NET, SQL
+Python,Artificial Intelligence, Machine Learning, computer vision, TensorFlow, Keras, OpenCV, pyTorch, C++, Java, JavaScript, Node.js, JQuery, HTML5, CSS3, Bootstrap, C#, ASP.NET, SQL, WordPress, SEO
 
 # Social:
 linkedIn: [Kimia Nahravanian](http://linkedin.com/in/kimia-nahravanian-0a60791b4)
