@@ -9,8 +9,7 @@ I am Dedicated and forward-thinking computer engineer with a strong focus on cra
 # 💻Skills:
 Python,Artificial Intelligence, Machine Learning, computer vision, TensorFlow, Keras, OpenCV, pyTorch, C++, Java, JavaScript, Node.js, JQuery, HTML5, CSS3, Bootstrap, C#, ASP.NET, SQL, WordPress, SEO
 
-# Social:
-linkedIn: [Kimia Nahravanian](http://linkedin.com/in/kimia-nahravanian-0a60791b4)
+
 
 
 
